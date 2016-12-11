@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: b8e868c383bab7548bc1b619317f37e7
+timeCreated: 1455377167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_an_run_01_0
+    21300002: hero_an_run_01_1
+    21300004: hero_an_run_01_2
+    21300006: hero_an_run_01_3
+    21300008: hero_an_run_01_4
+    21300010: hero_an_run_01_5
+    21300012: hero_an_run_01_6
+    21300014: hero_an_run_01_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_an_run_01_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 29}
+        - {x: -9, y: 29}
+        - {x: -18, y: 8}
+        - {x: -18, y: -29}
+        - {x: 4, y: -29}
+        - {x: 18, y: -18}
+        - {x: 18, y: 17}
+    - name: hero_an_run_01_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 17
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 26}
+        - {x: -2.5, y: 26}
+        - {x: -8.5, y: 20}
+        - {x: -9.5, y: 0}
+        - {x: -6.5, y: -1}
+        - {x: -3.5, y: -1}
+        - {x: -0.5, y: 2}
+        - {x: -3.5, y: -3}
+        - {x: -20.5, y: -7}
+        - {x: -20.5, y: -26}
+        - {x: 18.5, y: -26}
+        - {x: 20.5, y: -18}
+        - {x: 20.5, y: 16}
+        - {x: 18.5, y: 25}
+    - name: hero_an_run_01_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_an_run_01_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 28.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -28.5}
+        - {x: -2, y: -28.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 28.5}
+    - name: hero_an_run_01_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 29}
+        - {x: -9, y: 29}
+        - {x: -18, y: 24}
+        - {x: -18, y: -29}
+        - {x: 4, y: -29}
+        - {x: 18, y: -18}
+        - {x: 18, y: 19}
+        - {x: 14, y: 28}
+    - name: hero_an_run_01_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 26}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 1}
+        - {x: -6.5, y: -1}
+        - {x: -3.5, y: -1}
+        - {x: -0.5, y: 2}
+        - {x: -0.5, y: 5}
+        - {x: 0.5, y: 3}
+        - {x: -3.5, y: -3}
+        - {x: -20.5, y: -7}
+        - {x: -20.5, y: -26}
+        - {x: 18.5, y: -26}
+        - {x: 20.5, y: -18}
+        - {x: 20.5, y: 17}
+        - {x: 18.5, y: 26}
+    - name: hero_an_run_01_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 10
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero_an_run_01_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 28}
+        - {x: 15, y: 29}
+        - {x: -10, y: 29}
+        - {x: -16, y: -15}
+        - {x: -16, y: -29}
+        - {x: -5, y: -29}
+        - {x: 11, y: -16}
+        - {x: 16, y: -12}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
